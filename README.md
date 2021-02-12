@@ -1,2 +1,0 @@
-Es un logaritmo sencillo de una regla de 3 simples para hacerel calculo de fuel en carreras de endurance (terminan por tiempo y no por vueltas).
-Se le solicita al usuario que se ingrese valores de: tiempo de vuelta, consumo por vuelta y duracion total de la carrera, con lo cual indica la cantidad de fuel total que se debera cargar en el auto mas un extra de una vuelta por una eventual contingencia.
